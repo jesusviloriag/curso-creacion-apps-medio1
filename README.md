@@ -3,7 +3,7 @@ Curso del 5/18/2023
 
 ![alt text](https://i.imgur.com/DyhS4W3.jpg)
 ![alt text](https://i.imgur.com/GYYbEiC.png)
-![alt text]([https://i.imgur.com/GYYbEiC.png](https://i.imgur.com/NZm9sxy.png))
+![alt text](https://i.imgur.com/NZm9sxy.png))
 
 Instalar todo
 ```

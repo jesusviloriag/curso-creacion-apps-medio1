@@ -29,7 +29,7 @@ function QRGen(): JSX.Element {
     const [mostrarImagen, setMostrarImagen] = useState(false);
 
     const mostrandoImagen = () =>{
-        if (mostrarImagen) {
+        if (mostrarImagen && texto) {
             return (
             <QRCode
                 value={texto}

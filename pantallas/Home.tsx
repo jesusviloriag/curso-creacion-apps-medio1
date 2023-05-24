@@ -171,6 +171,14 @@ function Home({ navigation }): JSX.Element {
             height: 600,
             backgroundColor: 'transparent'
           }}>
+          <Boton text="CREAR QR" onPress={() => navigation.push("QRGen")}></Boton>
+          <Boton text="LEER QR" onPress={() => {
+            navigation.push("Camara")
+            }}></Boton>
+            <View style={{
+            height: 600,
+            backgroundColor: 'transparent'
+          }}></View>
             
           </View>
             
